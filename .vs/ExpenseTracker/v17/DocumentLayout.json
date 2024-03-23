@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\chyau\\source\\repos\\expensetracker\\expensetracker\\expensetracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\expensetracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\chyau\\source\\repos\\expensetracker\\expensetracker\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\chyau\\source\\repos\\expensetracker\\expensetracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\chyau\\source\\repos\\expensetracker\\expensetracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\chyau\\source\\repos\\expensetracker\\expensetracker\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\chyau\\source\\repos\\expensetracker\\expensetracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\chyau\\source\\repos\\expensetracker\\expensetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\chyau\\source\\repos\\expensetracker\\expensetracker\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\chyau\\source\\repos\\expensetracker\\expensetracker\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpenseTracker",
+              "DocumentMoniker": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj",
+              "RelativeDocumentMoniker": "ExpenseTracker\\ExpenseTracker.csproj",
+              "ToolTip": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj",
+              "RelativeToolTip": "ExpenseTracker\\ExpenseTracker.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-23T19:06:28.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T04:44:54.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T04:23:39.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ExpenseTracker\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwCAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T16:53:53.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Program.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Program.cs",
+              "RelativeToolTip": "ExpenseTracker\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:57:40.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "ExpenseTracker\\appsettings.json",
+              "ToolTip": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\appsettings.json",
+              "RelativeToolTip": "ExpenseTracker\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T16:04:41.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ExpenseTracker\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:54:27.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Models\\Category.cs",
+              "RelativeToolTip": "ExpenseTracker\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:35:28.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Models\\Transaction.cs",
+              "RelativeToolTip": "ExpenseTracker\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:42:55.251Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
