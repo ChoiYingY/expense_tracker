@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\chyau\\source\\repos\\expensetracker\\expensetracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\chyau\\source\\repos\\expensetracker\\expensetracker\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\chyau\\source\\repos\\expensetracker\\expensetracker\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\chyau\\source\\repos\\expensetracker\\expensetracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\chyau\\source\\repos\\expensetracker\\expensetracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\chyau\\source\\repos\\expensetracker\\expensetracker\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\chyau\\source\\repos\\expensetracker\\expensetracker\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\chyau\\source\\repos\\expensetracker\\expensetracker\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\chyau\\source\\repos\\expensetracker\\expensetracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\chyau\\source\\repos\\expensetracker\\expensetracker\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B6EDA75-14F4-4E35-8179-079D865AE14D}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\chyau\\source\\repos\\expensetracker\\expensetracker\\views\\category\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,13 +46,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "ExpenseTracker\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\wwwroot\\css\\site.css",
               "RelativeToolTip": "ExpenseTracker\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAcwGQAAAAdAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAkwEUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-03-24T21:47:14.457Z",
               "EditorCaption": ""
@@ -65,35 +65,48 @@
               "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Shared\\_SideBar.cshtml",
               "ToolTip": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Views\\Shared\\_SideBar.cshtml",
               "RelativeToolTip": "ExpenseTracker\\Views\\Shared\\_SideBar.cshtml",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-24T21:42:21.51Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "ExpenseTracker\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "ExpenseTracker\\Controllers\\DashboardController.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAqwCwAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T21:36:22.224Z",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBMAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T03:08:39.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Dashboard\\Index.cshtml",
               "ToolTip": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Views\\Dashboard\\Index.cshtml",
               "RelativeToolTip": "ExpenseTracker\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAqwDMAAAAVAAAA",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAqwJcAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-24T21:37:48.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "ExpenseTracker\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAqwGwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T21:36:22.224Z",
               "EditorCaption": ""
             },
             {
@@ -106,25 +119,11 @@
               "RelativeToolTip": "ExpenseTracker\\Views\\Category\\AddOrEdit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-24T21:29:47.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-24T21:29:47.051Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ExpenseTracker\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAwDIAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-24T03:08:39.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "ExpenseTracker\\Views\\Category\\Index.cshtml",

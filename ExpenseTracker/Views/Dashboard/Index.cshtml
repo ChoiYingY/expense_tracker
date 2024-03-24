@@ -5,7 +5,7 @@
     ViewData["isDashboard"] = true;
 }
 
-@*Summary Widgets*@
+@* Summary Widgets *@
 <div class="row mb-4">
     @*Income*@
     <div class="col-md-4">
@@ -81,6 +81,80 @@
 
     @* Spline Chart *@
     <div class="col-md-8">
-        
+        <div class="widget chart">
+            <div class="p-4">
+                <h5 class="fw-bold">Income vs Expense</h5>
+            </div>
+
+            @* Income vs Expense Spline Chart *@
+            <ejs-chart id="spline-chart" background="#B5D5CD" palettes=@(new string[]{"#F38783","#5FB3F5"})>
+                @* Set up x-axis (in dash) *@
+                <e-chart-primaryxaxis valueType="Category">
+                    <e-majorgridlines width="0"></e-majorgridlines>
+                    <e-majorticklines width="0"></e-majorticklines>
+                </e-chart-primaryxaxis>
+
+                @* Set up y-axis (in dash) *@
+                <e-chart-primaryyaxis>
+                    <e-majorgridlines width="1" color="#000" dashArray="3,5"></e-majorgridlines>
+                    <e-majorticklines width="0"></e-majorticklines>
+                    <e-linestyle width="0"></e-linestyle>
+                </e-chart-primaryyaxis>
+
+                @* Remove grid outline *@
+                <e-chart-chartarea>
+                    <e-chartarea-border width="0"></e-chartarea-border>
+                </e-chart-chartarea>
+
+                @* Label color *@
+                <e-series-collection>
+                    <e-series dataSource="@ViewBag.SplineChartData" xName="day" width="3"
+                              yName="income" name="Income" type="@Syncfusion.EJ2.Charts.ChartSeriesType.Spline"></e-series>
+                    <e-series dataSource="@ViewBag.SplineChartData" xName="day" width="3"
+                              yName="expense" name="Expense" type="@Syncfusion.EJ2.Charts.ChartSeriesType.Spline"></e-series>
+                </e-series-collection>
+
+                @* Set up legend on top right of chart *@
+                <e-chart-legendsettings position="Top" alignment="Far" toggleVisibility="false">
+                    <e-legendsettings-textstyle color="#000" size="0.75rem"></e-legendsettings-textstyle>
+                </e-chart-legendsettings>
+
+                @* Set up tooltip when hover *@
+                <e-chart-tooltipsettings enable shared></e-chart-tooltipsettings>
+            </ejs-chart>
+        </div>
+    </div>
+</div>
+
+@* Recent Transactions & More *@
+<div class="row">
+    @* Recent Transactions Widget *@
+    <div class="col-md-6">
+        <div class="widget">
+            <div class="p-4">
+                <h5 class="fw-bold">Recent Transactions</h5>
+            </div>
+
+            @* Display top 5 recent transaction *@
+            <div class="px-4 pb-4">
+                <ejs-grid id="recent-transactions"
+                          dataSource="@ViewBag.RecentTransactions" gridLines="None">
+                    <e-grid-columns>
+                        <e-grid-column headerText="Category" field="CategoryTitleWithIcon"></e-grid-column>
+                        <e-grid-column headerText="Date" field="Date" type="date" format="MMM-dd-yy"></e-grid-column>
+                        <e-grid-column headerText="Amount" field="FormattedAmount" textAlign="Right"></e-grid-column>
+                    </e-grid-columns>
+                </ejs-grid>
+            </div>
+        </div>
+    </div>
+
+    @* Add Widget *@
+    <div class="col-md-6">
+        <div class="widget h-100">
+            <div class="d-flex justify-content-center align-items-center h-100">
+                <span><i class="fa-solid fa-plus fa-2xl"></i> Widget</span>
+            </div>
+        </div>
     </div>
 </div>
