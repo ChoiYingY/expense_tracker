@@ -13,6 +13,9 @@ builder.Services.AddDbContext<ApplicationDbContext>
 
 var app = builder.Build();
 
+// Register Syncfunction License, license is temporary for now.
+Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Ngo9BigBOggjHTQxAR8/V1NBaF5cXmZCfUx1RXxbf1x0ZFRHal5VTnZaUj0eQnxTdEFjWn1dcndXQmBZWER1XA==");
+
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
