@@ -253,6 +253,10 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
       "Id": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\wwwroot\\profile.jpg",
       "PackagePath": "staticwebassets\\profile.jpg"
     },

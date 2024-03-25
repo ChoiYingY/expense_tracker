@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bkqshoH1a784orWqaX7Ix94B5aA4/g+cEmkrd/HNJrk=",
+  "Hash": "r9II4vQ1sqecYDmqQ8GUrT7/nvpDIFa61qKjBOM43fo=",
   "Source": "ExpenseTracker",
   "BasePath": "_content/ExpenseTracker",
   "Mode": "Default",
@@ -1231,6 +1231,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\wwwroot\\logo.png",
+      "SourceId": "ExpenseTracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\wwwroot\\",
+      "BasePath": "_content/ExpenseTracker",
+      "RelativePath": "logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo.png"
     },
     {
       "Identity": "C:\\Users\\chyau\\source\\repos\\ExpenseTracker\\ExpenseTracker\\wwwroot\\profile.jpg",
