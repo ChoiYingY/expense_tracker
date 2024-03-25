@@ -2,9 +2,77 @@
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 @{
-   
+    // Create menu items for side bar
+    List<Object> menuItems = new List<Object>();
+
+    // Category1: general URLs
+    menuItems.Add(new
+    {
+        text = "General",
+        separator = true,
+    });
+
+    // will redirect URL when click on menu items
+    menuItems.Add(new
+    {
+        text = "Dashboard",
+        url = "/",
+        iconCss = "fa-solid fa-box",
+    });
+    menuItems.Add(new
+    {
+        text = "Categories",
+        url = "/Category",
+        iconCss = "fa-solid fa-folder-closed",
+    });
+    menuItems.Add(new
+    {
+        text = "Transactions",
+        iconCss = "fa-solid fa-arrow-right-arrow-left",
+        url = "/Transaction"
+    });
 }
 
-<ejs-sidebar id="sidebar" width="290px">
-    
+<ejs-sidebar
+    id="sidebar" width="290px"
+    enableDock dockSize="100px"
+    target=".dock-target" enableGestures="false"
+>
+    @* Render sidebar *@
+    <e-content-template>
+        @* Render app logo *@
+        <div class="logo-wrapper">
+            <div class="app-logo">
+                <img src="~/logo.png" />
+            </div>
+            <div class="w-100"></div>
+            <i id="sidebar-toggler" class="fa-solid"></i>
+        </div>
+
+        @* Render user profile *@
+        <div class="profile-wrapper">
+            <img class="profile-pic" src="~/profile.jpg" />
+            <div class="titles d-flex flex-column ps-3">
+                <h6 class="mb-1">Wallet App</h6>
+                <span class="text-dark">Choi Ying Yau</span>
+            </div>
+        </div>
+
+        @* List all menu items for side bar *@
+        <ejs-menu id="menu"
+                  items="menuItems"
+                  orientation="Vertical"
+                  hamburgerMode>
+        </ejs-menu>
+    </e-content-template>
 </ejs-sidebar>
+
+@* Toggle sidebar *@
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        dockBar = document.getElementById('sidebar').ej2_instances[0];
+        document.getElementById('sidebar-toggler').onclick = function () {
+            dockBar.toggle();
+        };
+    });
+</script>
